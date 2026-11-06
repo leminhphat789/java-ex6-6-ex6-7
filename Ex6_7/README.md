@@ -28,7 +28,3 @@ phòng vệ dữ liệu, decorator, thời lượng, sao chép và khác biệt 
 ## Tệp
 Show.java: giao thức chung. Movie/Concert: lá. CompositeShow: nhóm.
 IntroducedShow: decorator. Traversal: duyệt cây. Main: demo. Tests: kiểm tra.
-
-Nguồn đề: https://github.com/prmr/DesignBook/blob/master/exercises/e-chapter6.md
-Nguồn chữ ký Show: https://github.com/prmr/DesignBook/blob/master/exercise-code/chapter6/Show.java
-Các lớp triển khai được viết mới cho bài thực hành này.
